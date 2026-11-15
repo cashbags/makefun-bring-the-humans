@@ -16,4 +16,4 @@ Then open http://localhost:8000 in a browser.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=6sknhk5z&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=qrg7fvky&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
